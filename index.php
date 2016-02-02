@@ -61,13 +61,13 @@
     					<div id="navbar-collapse-02" class="collapse navbar-collapse">
     						<ul class="nav navbar-nav navbar-right">			      
     							<li class="active propClone"><a href="#"><i class="fa fa-home"></i></a></li>
-    							<li class="propClone"><a href="#about-constructive">About</a></li>
-    							<li class="propClone"><a href="#our-features">Services</a></li>
-    							<li class="propClone"><a href="#expertise">Membership</a></li>
+    							<li class="propClone"><a href="#our-services">Services</a></li>
+    							<li class="propClone"><a href="#members">Membership</a></li>
+    							<li class="propClone"><a href="#pricing">Prices</a></li>
     							<li class="propClone"><a href="#our-crew">Our Staff</a></li>
-    						 	<li class="propClone"><a href="#latest-updates">Prices</a></li>
     							<li class="propClone"><a href="#client-reviews">Clients</a></li>
     							<li class="propClone"><a href="#contact-us">Contact</a></li>
+    							<li class="propClone"><a href="#about-rok'well">About Us</a></li>
     						</ul> 		      
     					</div><!-- /.navbar-collapse -->
     				</nav>
@@ -103,6 +103,10 @@
 								<div class="title-border background-color-blue"></div>
 								<div class="col-md-9 sub-title">
 									<p><span class="main-color">Rok'well</span>, Lorem ipsum 
+										dolor sit amet, consetetur sadipscing elitr, 
+										At accusam aliquyam diam diam dolore dolores 
+										duo eirmod eos erat, et nonumy sed tempor et 
+										et invidunt justo labore. Lorem ipsum 
 										dolor sit amet, consetetur sadipscing elitr, 
 										At accusam aliquyam diam diam dolore dolores 
 										duo eirmod eos erat, et nonumy sed tempor et 
