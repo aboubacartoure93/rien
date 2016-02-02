@@ -121,11 +121,11 @@ R.H.M.C. staff members are also home owners just like you. We understand that th
 				<div class="row">
 					<div class="col-md-5 col-sm-5 col-xs-12 copy">
 						<p>Copyright © 2016 RHMC, Inc.</p>		
-						<p>Built By Aboubacar.T</p>		
+						<p>Built By Toure</p>		
 					</div>
 					<div class="col-md-2 col-sm-2 col-xs-12 footer-logo">
 						<a href="#top-bar"><img src="images/logo.png" alt="logo"></a>
-						<h3>Constructive</h3>	
+						<h3>Rok'Well</h3>	
 					</div>
 					<div class="col-md-5 col-sm-5 col-xs-12 footer-social">
 						<a href=""><i class="fa fa-facebook-square"></i></a>		
