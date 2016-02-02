@@ -102,12 +102,11 @@
 								<h1>About <span>Rok'well</span></h1>
 								<div class="title-border background-color-blue"></div>
 								<div class="col-md-9 sub-title">
-									<p><span class="main-color">Rok'well</span>,  Home Maintenance Club Inc. is New York’s first and only annually paid home maintenance company. Founded in 2003. R.H.M.C. felt the cost of home maintenance was spiraling upwards out of control. R.H.M.C. felt it was time to make an affordable maintenance service package that can benefit all home/business owners. R.H.M.C.'s maintenance service package is the first of its kind, and becoming a club member can really be to a home/business owner’s advantage. Club members are able to access and utilize all of our maintenance service (painting, heating, carpentry etc). Also members can take advantage of our business network program, cosmetics program, and all the other programs that are available to you with your club membership.
-
-R.H.M.C. goal is to team up with our club members to handle all their maintenance needs. We are committed to providing our members with quality service, professionalism, and reliability at an affordable annual rate.
-
-R.H.M.C. staff members are also home owners just like you. We understand that things at home need to be done, more importantly the cost and time it takes getting them done.<span class="main-color"> Let us be your maintenance support team.</span>
- 
+									<p><span class="main-color">Rok'well</span>, Lorem ipsum 
+										dolor sit amet, consetetur sadipscing elitr, 
+										At accusam aliquyam diam diam dolore dolores 
+										duo eirmod eos erat, et nonumy sed tempor et 
+										et invidunt justo labore.
  <!-- <span class="main-color">VOKALIA AND CONSONANTIA</span>, there live the blind texts.</p> -->
 								</div>
 						</div>			
