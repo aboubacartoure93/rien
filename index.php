@@ -26,7 +26,7 @@
 
 	
 <?php
-echo "We need a better logo";
+echo "We need a better logo!";
 ?>
     
     <div id="page" class="page">
