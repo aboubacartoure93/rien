@@ -26,7 +26,7 @@
 
 	
 <?php
-echo "My PHP script!";
+// echo "My PHP script!";
 ?>
     
     <div id="page" class="page">
